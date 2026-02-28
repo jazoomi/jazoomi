@@ -58,8 +58,8 @@ I care about writing clear, maintainable code and understanding systems deeply â
 
 ## ðŸ“« Connect
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: (add your link here)
+- [GitHub](https://github.com/jazoomi)
+- [LinkedIn](https://www.linkedin.com/in/sadiq-azmi/) 
 
 ---
 
