@@ -1,66 +1,109 @@
 # Hello, I'm Juice
 
-Software Engineer focused on backend systems, data workflows, and building tools that operate reliably at scale.
-
-## 🚀 About Me
-
-- SWE Intern working on production systems
-- Experience contributing to multi-project environments (AI tooling, internal platforms, supply chain systems)
-- Strong interest in system design, data integrity, and clean architecture
-- Background in construction before transitioning into tech
-
-I care about writing clear, maintainable code and understanding systems deeply — not just making them work.
+AI & Machine Learning Engineer focused on building production-grade data pipelines, LLM systems, and scalable backend infrastructure.
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 What I Do
 
-**Languages**
-- Python
-- SQL
-- TypeScript
-- JavaScript
+I build applied AI systems that move from experimentation to production.
 
-**Backend & Data**
-- Pandas
-- REST APIs
-- Data pipelines
-- Relational databases
-- Vector databases (e.g., Qdrant)
+My work spans:
+- LLM evaluation & prompt engineering
+- ETL pipelines & data infrastructure
+- AI-powered mobile applications
+- Backend performance optimization
+- Cloud-native deployments
 
-**Tools**
-- Git
-- GitHub
-- Docker
-- CI/CD
-- PagerDuty integrations
+I focus on measurable impact, system reliability, and reproducible AI workflows.
 
 ---
 
-## 📌 What I’m Working On
+## 🧠 AI & Machine Learning Experience
 
-- Improving backend reliability and alerting systems
-- Building internal tools that support operational teams
-- Writing data filtering and transformation logic for production use
-- Learning more about distributed systems and scalable architecture
+### Loblaws Digital — Software Developer Intern  
+- Built ETL data pipeline for product sorting using **Google Cloud Platform, BigQuery, and Vertex AI**, improving product coverage by 30%  
+- Designed prompt-engineered evaluation pipelines to refine LLM performance  
+  - Improved classification accuracy by 12%  
+  - Increased detail extraction accuracy by 17%  
+- Extracted structured planogram metadata using SQL, Python, and Airflow DAGs to improve new store planning efficiency  
+
+### Research Engineering — LLM Dataset Validation  
+- Validated 2,000+ datasets across 100+ public repositories to enhance LLM coverage  
+- Built unit & integration test suites for validating LLM function outputs  
+- Improved reproducibility of AI experiments and documented dataset quality metrics  
+
+### History Tourer AI — Generative AI Mobile App  
+- Developed an AI-powered mobile app integrating real-time camera input with generative AI models  
+- Built fine-tuned GPT workflows for contextual historical interpretation  
+- Designed and deployed end-to-end AI integration within a production-ready React Native app  
 
 ---
 
-## 🎯 Interests
+## 🛠 Technical Stack
 
-- Backend engineering
-- System design
-- Performance optimization
-- AI-assisted tooling
-- Clean, readable code
+### AI / ML
+- PyTorch  
+- LangChain  
+- Vertex AI  
+- Prompt Engineering  
+- LLM Evaluation Pipelines  
+- Dataset Validation & Experiment Tracking  
+
+### Backend & Data
+- Python  
+- SQL  
+- BigQuery  
+- Airflow  
+- Node.js  
+- REST APIs  
+- ETL Pipelines  
+
+### Cloud & Infrastructure
+- Google Cloud Platform  
+- AWS  
+- Docker  
+- Kubernetes  
+- CI/CD Pipelines  
+
+### Databases
+- PostgreSQL  
+- MySQL  
+- MongoDB  
+- SQLite  
+- NoSQL Systems  
+
+---
+
+## 📌 Selected Projects
+
+### AI-Powered Inventory Optimization System
+Desktop system for restaurant inventory & pricing optimization.  
+- Built automated reorder logic and pricing margin analysis  
+- Implemented CSV data pipelines and database-backed analytics  
+
+### History Tourer AI
+Real-time generative AI assistant delivering contextual historical insights from camera input.  
+- Integrated vision input → GPT prompt workflows  
+- Engineered scalable backend services for inference routing  
+
+---
+
+## 🎯 Current Focus
+
+- Productionizing LLM systems  
+- Building scalable data pipelines for AI workflows  
+- Improving evaluation reliability in generative systems  
+- Applied machine learning in retail & operational intelligence  
 
 ---
 
 ## 📫 Connect
 
-- [GitHub](https://github.com/jazoomi)
-- [LinkedIn](https://www.linkedin.com/in/sadiq-azmi/) 
+- GitHub: https://github.com/jazoomi  
+- LinkedIn: https://linkedin.com/in/sadiq-azmi  
+- Portfolio: https://jazoomi.netlify.app  
 
 ---
 
-> "Consistency over intensity."
+Building AI systems that are measurable, reproducible, and production-ready.
