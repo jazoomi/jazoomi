@@ -16,7 +16,6 @@ I work at the intersection of:
 📈 Evaluation & prompt optimization  
 ☁️ Cloud-native AI infrastructure  
 
-I’m especially interested in systems that move beyond demos — measurable gains, reproducible workflows, and clean architecture.
 
 ---
 
