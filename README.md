@@ -1,6 +1,6 @@
 # 👋 Hey, I’m Juice
 
-🧠 Building AI systems that actually ship.  
+🧠 Building AI systems that ship.  
 ⚙️ Turning LLM experiments into production pipelines.  
 📊 Focused on scalable data + multi-agent architectures.
 
