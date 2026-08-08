@@ -1,5 +1,22 @@
-👋 Hi, I’m Sadiq, known as Juice or Jazoomi
-👀 I’m interested in software development, whether fullstack, machine learning, or devops
-🌱 I’m currently learning Machine Learning and AI
-📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/sadiq-azmi/)!
-✨ Checkout my [website](https://jazoomi.netlify.app/)!
+# 👋 Hi, I'm Sadiq!
+
+**Sadiq Azmi** — also known as **Juice** or **Jazoomi**.
+
+### 👨‍💻 About Me
+
+* 💻 Interested in **Software Development**, including:
+
+  * Full-Stack Development
+  * Machine Learning & AI
+  * DevOps
+* 🌱 Currently learning and building with **Machine Learning & AI**
+* 🚀 Always working on new projects and exploring new technologies
+
+### 🔗 Connect With Me
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/sadiq-azmi/)
+* 🌐 [Website](https://jazoomi.netlify.app/)
+
+---
+
+*Thanks for stopping by!*
