@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Juice
+# 👋 Hi, I’m Sadiq
 
 🧠 Building AI systems that ship.  
 ⚙️ Turning LLM experiments into production pipelines.  
