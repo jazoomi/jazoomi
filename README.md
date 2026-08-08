@@ -2,6 +2,7 @@
 
 **Sadiq Azmi** — also known as **Juice** or **Jazoomi**.
 
+I shipped Stock Inventory Management System, a project dedicated for a store owner, Uncle Sals, after seeing inefficient workflow
 ### 👨‍💻 About Me
 
 * 💻 Interested in **Software Development**, including:
