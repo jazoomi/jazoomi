@@ -3,6 +3,7 @@
 **Sadiq Azmi** — also known as **Juice** or **Jazoomi**.
 
 I shipped [Stock Inventory Management System](https://github.com/jazoomi/Stock-Inventory-Management-System), a project dedicated for a store owner, Uncle Sals, after seeing inefficient workflow
+
 Developed [Artifact AI](https://github.com/jazoomi/History-Tourer-AI), an AI agent to assist on travels
 ### 👨‍💻 About Me
 
